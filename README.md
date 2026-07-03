@@ -48,6 +48,8 @@ Currently, I'm exploring **AI-assisted workflows** to accelerate development and
 
 ### 🏆 Highlights & Awards
 * 🥇 **TCS AI Ideathon Winner:** Recognized for innovation in AI-driven solutions.
+* 🥇 **Multiple client recognizations from Allianz UK.
+* 🥇 **TCS Special initiative award.
 * ⭐ **Star Performer:** Awarded multiple times for pivotal contributions to the **IBM Kyndryl Design System**.
 * 🎓 **Master's in Computer Engineering:** Graduated with Distinction (**9.3 CGPA**).
 
@@ -56,7 +58,7 @@ Currently, I'm exploring **AI-assisted workflows** to accelerate development and
 ### 📫 Let's Connect
 * 💼 **LinkedIn:** [linkedin.com/in/maulik-thaker009](https://linkedin.com/in/maulik-thaker009)
 * 📧 **Email:** mike.thaker009@gmail.com
-* 🌐 **Focus:** Open to full-time opportunities in **Europe (Germany, UK, Netherlands)** & Globally.
+* 🌐 **Focus:** Open to full-time opportunities in **Europe (Germany, UK, Netherlands, Switzerland etc.)** & Globally.
 <!---
 mak009/mak009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
